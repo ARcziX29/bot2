@@ -1,0 +1,19 @@
+module.exports =  {
+	name: '',
+	aliases: ['', '', ''],
+	description: '',
+    guildOnly: false,
+	dmOnly: true,
+	KomendaTylkoTu: true,
+    BotOwner: false,
+	Rangi: [``],
+	args: false,
+    usage: `<Treść>`,
+	execute(message, args) {
+	
+	
+	
+	
+	
+	    }
+    };
